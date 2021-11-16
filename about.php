@@ -17,7 +17,7 @@
 		<div id="body">
 			<div class="header">
 				<div>
-					<h1>About</h1>
+					<h1>About page by kajal</h1>
 				</div>
 			</div>
 			<div class="body">
