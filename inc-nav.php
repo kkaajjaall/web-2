@@ -6,10 +6,10 @@
 						<a href="index.html">Home</a>
 					</li>
 					<li class="menu selected">
-						<a href="about.html">About</a>
+						<a href="about.php">About</a>
 						<ul class="primary">
 							<li>
-								<a href="product.html">Product</a>
+								<a href="product.php">Product</a>
 							</li>
 						</ul>
 					</li>
