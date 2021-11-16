@@ -2,16 +2,14 @@
 <!----about page edit by kajal-- -->
 <html>
 <head>
-	
-</head>
-<body>
-	<?php 
-	$tittle="about page";
+<?php 
+	$title="about page";
 	include 'inc-head.php';
 	
 	?>
-</body>
-<!-- navbar section -->
+</head>
+<body>
+	<!-- navbar section -->
 <?php include 'inc-nav.php'?>
 <!-- about section -->
 <div id="page">
@@ -49,4 +47,6 @@
 <!-- footer section-- -->
 <?php include 'inc-footer.php'?>
 
+
+</body>
 </html>
