@@ -22,7 +22,7 @@
 						</ul>
 					</li>
 					<li>
-						<a href="contact.html">Contact</a>
+						<a href="contact2.php">Contact</a>
 					</li>
 				</ul>
 			</div>
