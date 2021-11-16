@@ -1,45 +1,21 @@
 <!doctype html>
-<!-- Website template by freewebsitetemplates.com -->
+<!----about page edit by kajal-- -->
 <html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>about - Frozen Yogurt Shop</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css">
-	<link rel="stylesheet" type="text/css" href="css/mobile.css">
-	<script src="js/mobile.js" type="text/javascript"></script>
+	
 </head>
 <body>
-	<div id="page">
-		<div id="header">
-			<div>
-				<a href="index.html" class="logo"><img src="images/logo.png" alt=""></a>
-				<ul id="navigation">
-					<li>
-						<a href="index.html">Home</a>
-					</li>
-					<li class="menu selected">
-						<a href="about.html">About</a>
-						<ul class="primary">
-							<li>
-								<a href="product.html">Product</a>
-							</li>
-						</ul>
-					</li>
-					<li class="menu">
-						<a href="blog.html">Blog</a>
-						<ul class="secondary">
-							<li>
-								<a href="singlepost.html">Single post</a>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<a href="contact.html">Contact</a>
-					</li>
-				</ul>
-			</div>
-		</div>
+	<?php 
+	$tittle="about page";
+	include 'inc-head.php';
+	
+	?>
+</body>
+<!-- navbar section -->
+<?php include 'inc-nav.php'?>
+<!-- about section -->
+<div id="page">
+		
 		<div id="body">
 			<div class="header">
 				<div>
@@ -68,17 +44,9 @@
 				</div>
 			</div>
 		</div>
-		<div id="footer">
-			<div>
-				<div class="connect">
-					<a href="http://freewebsitetemplates.com/go/facebook/" class="facebook">facebook</a>
-					<a href="http://freewebsitetemplates.com/go/twitter/" class="twitter">twitter</a>
-					<a href="http://freewebsitetemplates.com/go/googleplus/" class="googleplus">googleplus</a>
-					<a href="http://pinterest.com/fwtemplates/" class="pinterest">pinterest</a>
-				</div>
-				<p>&copy; 2023 Freeeze. All Rights Reserved.</p>
-			</div>
-		</div>
+		
 	</div>
-</body>
+<!-- footer section-- -->
+<?php include 'inc-footer.php'?>
+
 </html>
