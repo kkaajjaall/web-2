@@ -14,7 +14,7 @@
 						</ul>
 					</li>
 					<li class="menu">
-						<a href="blog.html">Blog</a>
+						<a href="blogging.php">Blog</a>
 						<ul class="secondary">
 							<li>
 								<a href="singlepost.html">Single post</a>
